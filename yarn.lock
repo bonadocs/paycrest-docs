@@ -1211,10 +1211,10 @@
     "@babel/helper-validator-identifier" "^7.22.20"
     to-fast-properties "^2.0.0"
 
-"@bonadocs/widget@^1.0.1":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@bonadocs/widget/-/widget-1.0.6.tgz#10c9835faafd434a18ad3ce276bebc4c57e4e5ff"
-  integrity sha512-Y81WxUlgHt+FLAGzxiIDAAz9fJHdCPit2DjAwce+eZzbslE63w4iFSxIBsRMruYqfoxuJJJYUV3Dd4zPXfKrPQ==
+"@bonadocs/widget@^1.0.7":
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/@bonadocs/widget/-/widget-1.0.7.tgz#2f9788003758014ed65ed1e03492091d56fc8e3d"
+  integrity sha512-JVs312/JFenZ1JWu6OrHW93YAUPleLOLjvCk/ogF6QoCMVqEqh0fYtBI3tXmIy/uZ3l9flMVuAV+uNHLchZLeA==
 
 "@colors/colors@1.5.0":
   version "1.5.0"
